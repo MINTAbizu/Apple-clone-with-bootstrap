@@ -1,0 +1,227 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+img{
+    max-width: 100%;
+}
+
+
+.myheader{
+    background-color: black;
+    color: white;
+}
+.myheader ul li a{
+    color: white;
+   display: flex;
+   justify-content: space-between;
+
+}
+.myheader ul{
+    /* color: white; */
+   display: flex;
+   justify-content: space-between;
+
+}
+.myheader ul li a:hover{
+    text-decoration: underline;
+}
+.myheader ul li a{
+    text-decoration: none;
+}
+
+.linkwrapr ul li a{
+    text-decoration: none;
+    
+}
+.linkwrapr ul li a:hover{
+    text-decoration: underline;
+
+}
+.linkwrapr ul li{
+    list-style: none;
+   
+}
+/* two */
+.linkwrapr2 ul li a{
+    text-decoration: none;
+    color: #b3b3b3;
+}
+.linkwrapr2 ul li a:hover{
+    text-decoration: underline;
+
+}
+.linkwrapr2 ul li{
+    list-style: none;
+   
+}
+.twoall{
+  
+    background-image: url("/image/home/iphone11-pro-bg.jpg");
+	height: 580px;
+	background-position: center;
+	background-repeat: no-repeat;
+  background-size: cover;
+	text-align: center;
+	padding: 65px 20px;
+	color: #fff;
+
+    /* height:600px; 
+    background-size: cover;
+    background-position: centers;
+    background-repeat: no-repeat;
+    text-align: center; 
+  padding: 65px 20px; */
+}
+.twoall{
+    color: white;
+}
+.pro11{
+    margin-right: 300px;
+    text-align: center;
+    
+}
+.thrreall{
+    background-image: url("../image/home/iphone11-bg.jpg");
+    /* color: white; */
+}
+
+
+/* .linkwrapr ul li a{
+    display: flex;
+    list-style: none;
+}
+.linkwrapr ul li a{
+    text-decoration: none;
+}
+.linkwrapr ul li a:hover{
+    text-decoration: underline;
+
+} */
+
+
+
+.right{
+    background-image: url("/image/home/apple-card.jpg");
+}
+.right{
+    margin-left: 20px;
+
+}
+.left{
+    margin-right: 20px;
+
+}
+
+.left{
+    background-image: url("/image/home/watch-series-5.jpg");
+    height: 580px;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	text-align: center;
+	padding: 65px 20px;
+}
+.fivthleft{
+    background-image: url("/image/home/apple-tv-background.jpg");
+    height: 700px;
+    background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	text-align: center;
+	padding: 65px 20px;
+}
+.fivthright{
+    background-image: url("/image/home/air-pods.jpg");
+     background-size: cover;
+    
+    background-position: center;
+    background-repeat: no-repeat;
+    text-align: center; 
+	/* padding: 65px 20px;  */
+   
+    color: #fff; 
+	background-size: initial;
+	background-color: #000;
+	background-position: bottom;
+
+}
+.fivthleft{
+    margin-right: 20px;
+
+}
+.fivthright{
+    margin-left: 20px;
+}
+.fivthlogo{
+    padding-top: 300px;
+    text-align: center;
+}
+.sexleft {
+    background-image: url("/image/home/macbook-pro.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.sexright{
+    background-image: url("/image/home/new-ipad.jpg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+/* foterrrrrrrrrrrrrrrrrrrr */
+.allfooter{
+    display: flex;
+    justify-content: space-between;
+    background-color: #f5f5f7;
+}
+.allfooter ul li a{
+    text-decoration: none;
+    list-style: none;
+}
+.allfooter ul li {
+    text-decoration: none;
+    list-style: none;
+}
+.allfooter ul li a:hover{
+    text-decoration: underline;
+    list-style: none;
+}
+.textcontainer a{
+    text-decoration: none;
+
+}
+.textcontainer a:hover{
+    text-decoration: underline;
+
+}
+.copyright-wrapper{
+    display: flex;
+    justify-content: space-between;
+}
+.copyright-wrapper ul li {
+    list-style: none;
+    text-decoration: none;
+
+}
+.copyright-wrapper ul li a{
+    text-decoration: none;
+}
+.copyright-wrapper ul li a:hover{
+    text-decoration: underline;
+}
+.footer-links-terms {
+    display: flex;
+}
+.my-apple-wrapper a{
+    text-decoration: none;
+    list-style: none;
+}
+.my-apple-wrapper a{
+    text-decoration: underline;
+    
+}
+.footer-links-terms{
+    display: flex;
+    justify-content: space-between;
+}
